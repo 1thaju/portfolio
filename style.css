@@ -623,6 +623,11 @@ background-image: url("images/olx-clone.jpeg");
     align-items: center;
     color: #515153;
 }
+@media screen and (max-width:1300px){
+    .socialmedia{
+        display:none;
+    }
+}
 @media screen and (max-width:720px){
     .main{
         display: flex;
