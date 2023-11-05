@@ -735,6 +735,8 @@ background-image: url("images/olx-clone.jpeg");
         position: relative;
         top: 200px;
     }
+    .socialmedia{
+        display:none;
 }
 @media screen and (max-width:670px){
   
